@@ -37,7 +37,7 @@ model-mommy==1.4.0
 ndg-httpsclient==0.5.1
 oauthlib==2.0.1
 olefile==0.46
-Pillow==4.1.1
+Pillow==9.0.1
 psycopg2-binary==2.8.2
 pusher==1.7.2
 pyasn1==0.4.5
